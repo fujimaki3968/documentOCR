@@ -1,5 +1,5 @@
 # TendocLetterOCR
-:::docの日本語OCR部分です
+googleのAPIを利用した書類の解析（titleの判別、表の認識等。。。）
 
 # 1環境
 - python3.6
